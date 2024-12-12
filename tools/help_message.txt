@@ -12,4 +12,5 @@ Then you will have to choose the language of the manga. Depending on this langua
 ›› /options - Disable/enable pdf, cbz and/or telegraph output format.
 ›› /help - Show this message.
 
-Updates Channel : @Codeflix_Bots__**
+Updates Channel : @DelsgadeBots
+Support Group : @DeslgadeBotSupport**
