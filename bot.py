@@ -168,7 +168,7 @@ async def on_private_message(client: Client, message: Message):
 @bot.on_message(filters=filters.command(['start']))
 async def on_start(client: Client, message: Message):
     logger.info(f"User {message.from_user.id} started the bot")
-    await message.reply("›› **__Welcome to the best manga pdf bot in telegram!!\n"
+    await message.reply("›› **__Welcome to Asuka Manga Bot!!\n"
                         "\n"
                         "How to use? Just type the name of some manga you want to keep up to date.\n"
                         "\n"
